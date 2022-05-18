@@ -1,3 +1,1 @@
-"# bancaDigitalBootstrap" 
-
-<!--Pagina de practica con framework de Bootstrap -->
+Pagina de practica con framework de Bootstrap
